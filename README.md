@@ -1,4 +1,6 @@
-# symmetrical-happiness
+# Book Reviews
+
+Here are some books our group enjoyed:
 
 [Nineteen Eighty-Four](NineteenEighty-Four.md)
 
