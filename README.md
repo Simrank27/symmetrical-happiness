@@ -7,4 +7,4 @@ Here are some books our group enjoyed:
 
 [Crazy Rich Asians](https://github.com/Simrank27/symmetrical-happiness/blob/main/Crazy%20Rich%20Asians%20README.md)
 
-[Ghost In The Wires](https://github.com/Simrank27/symmetrical-happiness/new/Branch-2)
+[Ghost In The Wires](https://github.com/Simrank27/symmetrical-happiness/blob/main/Ghost%20In%20The%20Wires.md)
